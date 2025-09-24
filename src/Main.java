@@ -5,5 +5,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("lija mummy");
         System.out.println("i love you");
+        System.out.println("kishu bro");
     }
 }
